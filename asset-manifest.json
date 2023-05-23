@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/coffee-app/static/css/main.6f321102.css",
+    "main.js": "/coffee-app/static/js/main.672c9e2c.js",
+    "static/media/start-page-bg.png": "/coffee-app/static/media/start-page-bg.3b2810fdd604ba7b5068.png",
+    "static/media/green_tea.jpg": "/coffee-app/static/media/green_tea.63f56b995b2ebc5f1889.jpg",
+    "static/media/flat_white.jpg": "/coffee-app/static/media/flat_white.f99f96268de533094e85.jpg",
+    "static/media/icon.png": "/coffee-app/static/media/icon.304e105543455845d7a4.png",
+    "static/media/address.jpg": "/coffee-app/static/media/address.9ae78c765823e93104c8.jpg",
+    "static/media/tort-napoleon.jpg": "/coffee-app/static/media/tort-napoleon.65be7f23eb24d7b46782.jpg",
+    "static/media/raph.jpg": "/coffee-app/static/media/raph.9a1b569d3582d16ddafc.jpg",
+    "static/media/coffee.jpg": "/coffee-app/static/media/coffee.fae1f89a2338f40f01b6.jpg",
+    "static/media/expresso.jpg": "/coffee-app/static/media/expresso.d613d076439604542801.jpg",
+    "static/media/latte.jpg": "/coffee-app/static/media/latte.81742a8ab56db13c2430.jpg",
+    "static/media/tort_cocos.jpg": "/coffee-app/static/media/tort_cocos.910cfdb5521666d862f0.jpg",
+    "static/media/capuchino.jpg": "/coffee-app/static/media/capuchino.3ee66f4bd7474f38aa6c.jpg",
+    "static/media/address2.jpg": "/coffee-app/static/media/address2.552eb5adb6968635fd9d.jpg",
+    "static/media/black_tea.jpg": "/coffee-app/static/media/black_tea.332a6586d44fd688e498.jpg",
+    "index.html": "/coffee-app/index.html",
+    "main.6f321102.css.map": "/coffee-app/static/css/main.6f321102.css.map",
+    "main.672c9e2c.js.map": "/coffee-app/static/js/main.672c9e2c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6f321102.css",
+    "static/js/main.672c9e2c.js"
+  ]
+}
