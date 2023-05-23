@@ -1,0 +1,7 @@
+export const SUCCESS = "SUCCESS";
+export const LOADING = "LOADING";
+export const FAILING = "FAILING";
+
+export const GET_PRODUCTS = "GET_PRODUCTS"
+export const FILTER_PRODUCTS_SBSTR = "FILTER_PRODUCTS_SBSTR"
+export const FILTER_PRODUCTS_TYPE = "FILTER_PRODUCTS_TYPE"
